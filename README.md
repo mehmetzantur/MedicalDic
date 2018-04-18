@@ -1,6 +1,6 @@
 ![alt text](https://raw.githubusercontent.com/mehmetzantur/MedicalDic/master/SS/0.JPG)
 
-# MedicalDic
+# MedicalDic (2016)
 Medikal Cep Sözlüğü Örneği Mobil Uygulaması (Android)
 
 > *İçerisinde kayıtlı olan tıbbi terimleri arama yaparak bulmanızı sağlar.*
