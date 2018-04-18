@@ -1,3 +1,5 @@
+![alt text](https://raw.githubusercontent.com/mehmetzantur/MedicalDic/master/SS/0.JPG)
+
 # MedicalDic
 Medikal Cep Sözlüğü Örneği Mobil Uygulaması (Android)
 
