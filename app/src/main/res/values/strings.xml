@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MedicalDic</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="fa_user">&#xf007;</string>
+    <string name="fa_eraser">&#xf12d;</string>
+    <string name="fa_cog">&#xf013;</string>
+    <string name="fa_search">&#xf002; Arama</string>
+    <string name="fa_plus">&#xf067;</string>
+    <string name="fa_close">&#xf00d;</string>
+    <string name="fa_arrow_left">&#xf060;</string>
+    <string name="fa_globe">&#xf0ac;</string>
+    <string name="fa_android">&#xf17b;</string>
+    <string name="fa_credit_card">&#xf09d;</string>
+    <string name="fa_folder">&#xf07b;</string>
+    <string name="fa_save">&#xf0c7;</string>
+    <string name="fa_eye">&#xf06e;</string>
+    <string name="fa_eye_slash">&#xf070;</string>
+</resources>
