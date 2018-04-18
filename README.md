@@ -1,2 +1,2 @@
 # MedicalDic
-Medikal Cep Sözlüğü Örneği
+Medikal Cep Sözlüğü Örneği Mobil Uygulaması (Android)
